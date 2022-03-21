@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xMaxH
-- 👀 I’m interested in compilers, operating systems, assembly, c/c++, java, python
-- 🌱 I’m currently learning Python and C(++)
-- 💞️ I’m looking to collaborate on compilers
+- 👋 Hi, I’m @m-heim
+- 👀 I’m interested in cyber security, compilers, operating systems, assembly, c/c++, java, python, hardware
+- 🌱 I’m currently learning (hardware) cyber security
+- 💞️ I’m looking to collaborate on compilers, testing tools etc.
 - 📫 How to reach me MaximilianHeim@protonmail.com
 
 <!---
