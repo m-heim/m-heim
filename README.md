@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @m-heim
+- 👋 Hi, I’m @m-heim, a computer engineering student from Germany
 - 👀 I’m interested in cyber security, compilers, operating systems, assembly, c/c++, java, python, hardware
 - 🌱 I’m currently learning (hardware) cyber security
-- 💞️ I’m looking to collaborate on compilers, testing tools etc.
+- 💞️ I’m looking to collaborate on compilers, testing tools, operating systems, scripts etc.
 - 📫 How to reach me MaximilianHeim@protonmail.com
 
 <!---
